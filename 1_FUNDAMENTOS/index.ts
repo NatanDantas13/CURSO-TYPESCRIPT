@@ -10,6 +10,6 @@ const y: number = 10.3333
 
 console.log(y.toPrecision(3))
 
-for(let i = 0; I <= y; I++){
+for(let i = 0; i <= y; I++){
  console.log("imprimindo número", i)
 }
